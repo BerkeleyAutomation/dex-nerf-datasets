@@ -2,7 +2,7 @@
 
 The repo contains the datasets for the paper:
 
-"[Dex-NeRF: Using a Neural Radiance field to Grasp Transparent Objects](https://sites.google.com/view/dex-nerf)"
+"[Dex-NeRF: Using a Neural Radiance field to Grasp Transparent Objects](https://sites.google.com/view/dex-nerf),"
 Jeffrey Ichnowski*, Yahav Avigal*, Justin Kerr, and Ken Goldberg,
 Conference on Robot Learning (CoRL), 2020
 
@@ -41,7 +41,7 @@ If you use this in your work, please cite:
 
     @inproceedings{IchnowskiAvigal2021DexNeRF,
       title={{Dex-NeRF}: Using a Neural Radiance field to Grasp Transparent Objects},
-      author={Ichnowsk*, Jeffrey and Avigal*, Yahav and Kerr, Justin and Goldberg, Ken},
+      author={Ichnowski*, Jeffrey and Avigal*, Yahav and Kerr, Justin and Goldberg, Ken},
       booktitle={Conference on Robot Learning (CoRL)},
       year={2020}
     }
